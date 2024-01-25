@@ -221,7 +221,7 @@ p {
 .t {
     color: white;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 375px) {
     h1 {
         text-align: center;
         font-size: 30px;
